@@ -1,4 +1,4 @@
-guest_name = "Hermione"
+guest_name = "Ron Weasely"
 party_name = "Best Halloween Party"
 date = "October 31"
 time = "6pm" 
